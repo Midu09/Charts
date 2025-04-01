@@ -200,8 +200,7 @@ export default function App() {
 
         <div className="mt-4 text-sm text-gray-500">
           <p>
-            Drag left/right to view historical data. Data provided by Binance
-            API.
+            DoanMinhDung- Minhdung09fromHUMG
           </p>
         </div>
       </div>
